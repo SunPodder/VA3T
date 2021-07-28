@@ -6,5 +6,6 @@ def fib(n):
         a, b = b, a+b
         print(''.join(str(li) for li in l))
 
-row = int(input(">> "))
-fib(row)
+while True:
+	row = int(input("\n>> "))
+	fib(row)
