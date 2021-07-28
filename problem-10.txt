@@ -1,0 +1,2 @@
+* Friendly, Helpful
+* JavaScript বা Python এর কিছু লাইব্রেরি বানানো যায়
