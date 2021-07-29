@@ -7,5 +7,5 @@ def fib(n):
         print(''.join(str(li) for li in l))
 
 while True:
-	row = int(input("\n>> "))
-	fib(row)
+	max = int(input("\n>> "))
+	fib(max)
